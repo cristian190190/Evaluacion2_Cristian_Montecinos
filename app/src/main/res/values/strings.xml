@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Evaluacion2</string>
+
+
+        <string-array name="laboratorios_array">
+            <item>C2</item>
+            <item>LINF</item>
+            <item>LEICA</item>
+            <item>LNET</item>
+            <item>LTEL</item>
+        </string-array>
+
+
+</resources>
